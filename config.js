@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Puneeth',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -23,17 +23,17 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: 'f423bd044c50233fd8fda116a18bf30d', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '17.385044',
+	defaultLongitude: '78.486671',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/darkxdd/',
 		},
 		{
 			id: '2',
@@ -79,13 +79,13 @@ const CONFIG = {
 			id: '5',
 			name: 'Reddit',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://libreddit.kavin.rocks/',
 		},
 		{
 			id: '6',
 			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://piped.kavin.rocks/',
 		},
 	],
 
